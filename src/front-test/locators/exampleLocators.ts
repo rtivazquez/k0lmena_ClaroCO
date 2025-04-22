@@ -1,3 +1,4 @@
-export const inputLabel = 'Buscar productos, marcas y má';
-export const buttonSearch = 'Buscar';
-export const divResult = 'Autos, Motos y OtrosAutos y';
+export const inputUser = '#username';
+export const inputPass = '#password';
+export const loginButton = '#Login';
+export const divResult = 'CRM Claro';
